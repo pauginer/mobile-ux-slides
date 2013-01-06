@@ -1,0 +1,16 @@
+img {
+	border: none !important;
+	box-shadow: none !important;
+    max-height:80% !important;
+}
+
+img:first-child {
+	margin-top: -25px !important;
+	max-height:100% !important;
+}
+
+blockquote+small{
+	text-align: right !important;
+	width: 70%;
+	color: #555;
+}

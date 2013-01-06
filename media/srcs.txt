@@ -1,0 +1,30 @@
+ux_disciplines: http://www.kickerstudio.com/blog/2008/12/the-disciplines-of-user-experience/
+twitter_sketch: http://www.flickr.com/photos/jackdorsey/182613360/
+mobile_barcode: http://www.flickr.com/photos/johanl/5873732453/
+twitter_mobile: http://www.flickr.com/photos/johanl/5144798765/
+twitter_mobile_hand: http://www.flickr.com/photos/stevegarfield/4247757731/
+mobile_hand: http://www.flickr.com/photos/johanl/5661614345/
+door_key: http://www.flickr.com/photos/philhawksworth/4949021357/
+
+university_website: http://xkcd.com/773/
+
+mobile_design: http://developer.android.com/design/media/design_elements_landing.png
+widget_resized: http://developer.android.com/design/media/widgets_resizing02.png
+widget: http://developer.android.com/design/media/widgets_info.png
+gmail_undo: http://developer.android.com/design/media/confirm_ack_draft_deleted.png
+multipane_stretch: http://developer.android.com/design/media/multipane_stretch.png
+multipane_stack: http://developer.android.com/design/media/multipane_stack.png
+multipane_expand: http://developer.android.com/design/media/multipane_expand.png
+multipane_show: http://developer.android.com/design/media/multipane_show.png
+multipane_mobile: http://developer.android.com/design/media/multipane_views.png
+multipane_tablet: http://developer.android.com/design/media/multipane_view_tablet.png
+mobile_layouts: http://developer.android.com/design/media/action_bar_pattern_rotation.png
+sitemap: http://developer.android.com/design/media/app_structure_overview.png
+youtube_mobile: http://developer.android.com/design/media/tabs_stacked.png
+wireflow: http://developer.android.com/design/media/navigation_from_outside_back.png
+
+
+Atribution for Android assets: 
+ Portions of this page are reproduced from work created and <a href="http://code.google.com/policies.html">shared by the Android Open Source Project</a>
+ and used according to terms described in the <a href="http://creativecommons.org/licenses/by/2.5/">Creative Commons
+ 2.5 Attribution License</a>.
