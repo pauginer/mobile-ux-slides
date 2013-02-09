@@ -5,6 +5,13 @@ twitter_mobile: http://www.flickr.com/photos/johanl/5144798765/
 twitter_mobile_hand: http://www.flickr.com/photos/stevegarfield/4247757731/
 mobile_hand: http://www.flickr.com/photos/johanl/5661614345/
 door_key: http://www.flickr.com/photos/philhawksworth/4949021357/
+old_computer: http://www.flickr.com/photos/ajmexico/3281139507/
+many_devices: http://www.flickr.com/photos/adactio/6152926429/
+
+boarding_pass_original: http://passfail.squarespace.com/
+boarding_pass_design: http://passfail.squarespace.com/
+apple_rams: http://beophile.com/?page_id=13815
+
 
 university_website: http://xkcd.com/773/
 
