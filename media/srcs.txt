@@ -7,6 +7,11 @@ mobile_hand: http://www.flickr.com/photos/johanl/5661614345/
 door_key: http://www.flickr.com/photos/philhawksworth/4949021357/
 old_computer: http://www.flickr.com/photos/ajmexico/3281139507/
 many_devices: http://www.flickr.com/photos/adactio/6152926429/
+airplane_forms: http://www.flickr.com/photos/katiekellert/386269683/
+rams_radio: http://www.flickr.com/photos/nite_owl/405946519/
+rams_speaker:  http://www.flickr.com/photos/renespitz/4631225505/
+rams_watch: http://www.flickr.com/photos/hine/4106589701/
+earth: http://www.flickr.com/photos/24662369@N07/4426654941
 
 boarding_pass_original: http://passfail.squarespace.com/
 boarding_pass_design: http://passfail.squarespace.com/
