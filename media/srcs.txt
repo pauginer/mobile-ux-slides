@@ -12,6 +12,15 @@ rams_radio: http://www.flickr.com/photos/nite_owl/405946519/
 rams_speaker:  http://www.flickr.com/photos/renespitz/4631225505/
 rams_watch: http://www.flickr.com/photos/hine/4106589701/
 earth: http://www.flickr.com/photos/24662369@N07/4426654941
+kinect: http://www.flickr.com/photos/popculturegeek/6764013293/
+google_glass: http://www.flickr.com/photos/maxbraun/7571451908/
+pickup_car: http://www.flickr.com/photos/lhoon/195520547/
+sports_car: http://www.flickr.com/photos/tinou/393800080/
+family_car: http://www.flickr.com/photos/gregwest98/5299714861/
+persona_cowboy: http://www.flickr.com/photos/sbeebe/2849271610/
+persona_markus: http://www.flickr.com/photos/bigd2112/5026685215/
+persona_anne: http://www.flickr.com/photos/bigd2112/5028522377/
+personas_paper: http://www.flickr.com/photos/cannedtuna/4852756417/
 
 boarding_pass_original: http://passfail.squarespace.com/
 boarding_pass_design: http://passfail.squarespace.com/
@@ -19,6 +28,8 @@ apple_rams: http://beophile.com/?page_id=13815
 
 
 university_website: http://xkcd.com/773/
+
+twitter_design_team: http://www.flickr.com/photos/mringlein/8046015988/
 
 mobile_design: http://developer.android.com/design/media/design_elements_landing.png
 widget_resized: http://developer.android.com/design/media/widgets_resizing02.png
@@ -35,6 +46,57 @@ sitemap: http://developer.android.com/design/media/app_structure_overview.png
 youtube_mobile: http://developer.android.com/design/media/tabs_stacked.png
 wireflow: http://developer.android.com/design/media/navigation_from_outside_back.png
 
+
+http://ux.stackexchange.com/a/14818/5146
+sketch_text: http://i.stack.imgur.com/8u1Lc.png
+sketch_fidelity: http://i.stack.imgur.com/XeKNQ.png
+sketch_shadow: http://i.stack.imgur.com/R4E5t.png
+
+CC Images from Rosenfeld media:
+f-pattern_heatmap: http://www.flickr.com/photos/rosenfeldmedia/2367274164/
+mental_models_whiteboard: http://www.flickr.com/photos/rosenfeldmedia/2125032185/
+mental_models_example: http://www.flickr.com/photos/rosenfeldmedia/2125040269/
+paypal_alignment_bad: http://www.flickr.com/photos/rosenfeldmedia/2367261472/
+paypal_alignment_good: http://www.flickr.com/photos/rosenfeldmedia/2367261684/
+
+prototyping_book: http://www.flickr.com/photos/rosenfeldmedia/4001050062/
+six_sketches: http://www.flickr.com/photos/rosenfeldmedia/3978401146/
+design_critique: http://www.flickr.com/photos/rosenfeldmedia/3977544675/
+design_critique_process: http://www.flickr.com/photos/rosenfeldmedia/3978302604/
+ppt_prototype: http://www.flickr.com/photos/rosenfeldmedia/3978127831/
+paper_mobile_prototype: http://www.flickr.com/photos/rosenfeldmedia/3978126471/
+paper_mobile_prototype_kit: http://www.flickr.com/photos/rosenfeldmedia/3978119393/
+paper_prototype_kit: http://www.flickr.com/photos/rosenfeldmedia/3978881780/
+paper_prototype_interaction: http://www.flickr.com/photos/rosenfeldmedia/3978120681/
+paper_prototype_highlight: http://www.flickr.com/photos/rosenfeldmedia/3978122931/
+paper_prototype_device: http://www.flickr.com/photos/rosenfeldmedia/3978126963/
+prototype_transition: http://www.flickr.com/photos/rosenfeldmedia/3978399216/
+
+sketch_interaction: http://www.flickr.com/photos/rosenfeldmedia/3978304036/
+sketch_kit: http://www.flickr.com/photos/rosenfeldmedia/3978119763/
+
+card_sorting: http://www.flickr.com/photos/rosenfeldmedia/3343504093/
+
+form_design_book: http://www.flickr.com/photos/rosenfeldmedia/2456180445/
+
+usability_observers: http://www.flickr.com/photos/rosenfeldmedia/4218842283/
+usability_observers_panoramic: http://www.flickr.com/photos/rosenfeldmedia/4219212595/
+usability_participant: http://www.flickr.com/photos/rosenfeldmedia/4219976234/
+usability_testing_informal: http://www.flickr.com/photos/stevevosloo/4918831135
+
+auto_completion_search: http://www.flickr.com/photos/rosenfeldmedia/5690982530/
+
+comic_printer: http://www.flickr.com/photos/rosenfeldmedia/4459980658/
+comic_presenting: http://www.flickr.com/photos/rosenfeldmedia/4459200347
+
+
+chair: http://www.flickr.com/photos/rosenfeldmedia/3260817875/
+
+keyboard: http://www.flickr.com/photos/rosenfeldmedia/3260776139/
+ipod: http://www.flickr.com/photos/rosenfeldmedia/
+
+precious_paper_templates: http://precious-forever.com/2010/12/09/precious-paper-devices/
+multiscreen_patterns: http://precious-forever.com/2011/05/26/patterns-for-multiscreen-strategies/
 
 Atribution for Android assets: 
  Portions of this page are reproduced from work created and <a href="http://code.google.com/policies.html">shared by the Android Open Source Project</a>
