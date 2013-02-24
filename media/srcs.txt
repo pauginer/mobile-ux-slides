@@ -74,6 +74,12 @@ prototype_transition: http://www.flickr.com/photos/rosenfeldmedia/3978399216/
 
 sketch_interaction: http://www.flickr.com/photos/rosenfeldmedia/3978304036/
 sketch_kit: http://www.flickr.com/photos/rosenfeldmedia/3978119763/
+sketch_greenpeace: http://www.flickr.com/photos/brian-fitzgerald/681788864/
+sketch_picasso: http://www.flickr.com/photos/centralasian/4721176462/
+picasso: http://www.flickr.com/photos/centralasian/5411040246/
+sketch_lamps: http://www.flickr.com/photos/designandtechnologydepartment/3968893980/
+
+sketch_avengers: http://jayse.tv/v2/?portfolio=hud
 
 card_sorting: http://www.flickr.com/photos/rosenfeldmedia/3343504093/
 
