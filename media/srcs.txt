@@ -21,13 +21,31 @@ persona_cowboy: http://www.flickr.com/photos/sbeebe/2849271610/
 persona_markus: http://www.flickr.com/photos/bigd2112/5026685215/
 persona_anne: http://www.flickr.com/photos/bigd2112/5028522377/
 personas_paper: http://www.flickr.com/photos/cannedtuna/4852756417/
-
+table_touch: http://www.flickr.com/photos/openexhibits/6306829170/
+table_users: http://www.flickr.com/photos/smannion/3448719517/
+magician_assistant:http://www.flickr.com/photos/wonderlane/7923402476/
 boarding_pass_original: http://passfail.squarespace.com/
 boarding_pass_design: http://passfail.squarespace.com/
 apple_rams: http://beophile.com/?page_id=13815
-
-
+search_map: http://www.flickr.com/photos/cmmorrison/5578799593/
+mobile_payment: http://www.flickr.com/photos/joeybones/6791201819/
+mobile_update_error: http://www.flickr.com/photos/avlxyz/5126908928/
+windows_phone: http://www.flickr.com/photos/jeffwilcox/4435367457/
 university_website: http://xkcd.com/773/
+macbook_details:http://www.flickr.com/photos/mjs/3046240921/
+mobile_outdoor: http://www.flickr.com/photos/tillwe/6574674975/
+muffin: http://www.flickr.com/photos/15216811@N06/5398771984/
+plane: http://www.flickr.com/photos/duncanh1/4721689455/
+cars: http://www.flickr.com/photos/jmv/18463173/
+hockey_tv: http://www.flickr.com/photos/interchangeableparts/2927644631/
+picture_frames: http://www.flickr.com/photos/ricardodiaz/3208220314/
+tennis: http://www.flickr.com/photos/evilerin/3210942696/
+presenting: http://www.flickr.com/photos/zigazou76/6988310135/
+metro_station: http://www.flickr.com/photos/nikodemus/37860019/
+shop_clothes: http://www.flickr.com/photos/amber-rae/3922212956/
+korean: http://www.flickr.com/photos/infinity_k/6860562303/
+newspaper: http://www.flickr.com/photos/zoetnet/4851547572/
+earth_connect: http://www.flickr.com/photos/gsfc/7402439760/
 
 twitter_design_team: http://www.flickr.com/photos/mringlein/8046015988/
 
@@ -103,6 +121,22 @@ ipod: http://www.flickr.com/photos/rosenfeldmedia/
 
 precious_paper_templates: http://precious-forever.com/2010/12/09/precious-paper-devices/
 multiscreen_patterns: http://precious-forever.com/2011/05/26/patterns-for-multiscreen-strategies/
+
+Gestures: http://gestureworks.com/pages/core-features-gestures
+gesture_one_finger_tap: http://www.gestureworks.com/
+gesture_one_finger_double_tap: http://www.gestureworks.com/
+gesture_one_finger_drag: http://www.gestureworks.com/
+gesture_one_finger_swipe: http://www.gestureworks.com/
+gesture_four_finger_split: http://www.gestureworks.com/
+
+
+vine_signup: http://cdn.pttrns.com/pttrns/1178/small/IMG_0954.PNG?1359856241
+twittelator_composer: http://cdn.pttrns.com/pttrns/578/small/Twittelator_Social-Networking.PNG
+nook_login_error: http://mobiledesignpatterngallery.com/mobile-patterns-details.php?colid=65438029-72157627731646558&setid=72157627819991889&s=1
+
+gmail_send_problem: http://www.codinghorror.com/blog/2010/03/the-opposite-of-fitts-law.html
+gmail_new_composer: http://gmailblog.blogspot.com.es/2012/10/introducing-new-compose-in-gmail.html
+http://rosenfeldmedia.com/books/mobile-design/blog/animation_principle_three_stag/
 
 Atribution for Android assets: 
  Portions of this page are reproduced from work created and <a href="http://code.google.com/policies.html">shared by the Android Open Source Project</a>
