@@ -46,6 +46,7 @@ shop_clothes: http://www.flickr.com/photos/amber-rae/3922212956/
 korean: http://www.flickr.com/photos/infinity_k/6860562303/
 newspaper: http://www.flickr.com/photos/zoetnet/4851547572/
 earth_connect: http://www.flickr.com/photos/gsfc/7402439760/
+dont_make_think_book: http://www.flickr.com/photos/phatzui/2848339069/
 
 twitter_design_team: http://www.flickr.com/photos/mringlein/8046015988/
 
