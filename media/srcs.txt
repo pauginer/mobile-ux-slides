@@ -49,6 +49,7 @@ earth_connect: http://www.flickr.com/photos/gsfc/7402439760/
 dont_make_think_book: http://www.flickr.com/photos/phatzui/2848339069/
 observing_people: http://www.flickr.com/photos/uggboy/7314526676/
 survey: http://www.flickr.com/photos/9731367@N02/6988157282/
+calling: http://www.flickr.com/photos/adrian-deejay/5439079738/
 
 twitter_design_team: http://www.flickr.com/photos/mringlein/8046015988/
 
