@@ -1,0 +1,296 @@
+<!DOCTYPE HTML>
+<html lang="es">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Investigación</title>
+
+		<meta name="description" content="Estado del arte en investigación para dispositivos móviles">
+		<meta name="author" content="Pau Giner">
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+		<link rel="stylesheet" href="../lib/reveal/css/reveal.min.css">
+		<link rel="stylesheet" href="../lib/reveal/css/theme/default.css" id="theme">
+		<link rel="stylesheet" href="../lib/reveal/lib/css/zenburn.css">
+		<link rel="stylesheet" href="../style/base.css">
+
+		<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+		<script>
+			document.write( '<link rel="stylesheet" href="../lib/reveal/css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="../lib/reveal/lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+
+				<section>
+					<h1>Áreas de investigación</h1>
+					<h3>Estado del arte en investigación para dispositivos móviles</h3>
+					<p>
+						<small><a href="http://pau.antiblog.com">Pau Giner</a> / <a href="http://twitter.com/pauginer">@pauginer</a></small>
+					</p>
+				</section>
+				
+				<section>
+					<h2>La evolución de los paradigmas de interacción</h2>
+					<h3>y sus posibilidades</h3>
+				</section>
+
+				<section>
+					<section>
+						<h3>CLI: Command Line Interface</h3>
+						<img src="../media/old_computer.jpg" alt="CLI"/>
+					</section>
+					<section>
+						<ul>
+							<li>Basados en texto y memoria</li>
+							<li>Muchos comandos: copy, cd, dir..</li>
+							<li>Pocas formas de interactuar: entrada/salida texto y componer comandos.</li>
+						</ul>
+					</section>
+					<section>
+						<ul>
+							<li>Los usuarios deben recordar los comandos</li>
+							<li>Es posible componer funcinalidades</li>
+						</ul>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h3>GUI: Graphical User Interface</h3>
+						<img src="../media/macintosh_desktop.png" alt="GUI"/>
+					</section>
+					<section>
+						<ul>
+							<li>Basado en gráficos y reconocimiento</li>
+							<li>WIMP: Window, Icons, Menus, and Pointing device</li>
+							<li>WYSIWYG: What you see is what you get</li>
+						</ul>
+					</section>
+					<section>
+						<img src="../media/macintosh_manual.jpg" alt="Indirection"/>
+						<p>Niveles de indirección entre acción y resultado.</p>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h3>NUI: Natural user interfaces</h3>
+						<img src="../media/table_touch.jpg" alt="NUI"/>
+					</section>
+					<section>
+						<ul>
+							<li>Representación directa</li>
+							<li>Manipulación directa</li>
+							<li>Física basada en la intuición espacio-temporal</li>
+							<li>Responder al contexto</li>
+						</ul>
+					</section>
+					<section>
+						<iframe width="560" height="315" src="http://www.youtube.com/embed/cyJi6_GVoTM?rel=0" frameborder="0" allowfullscreen></iframe>
+						<p>Agarawala, Anand. Ravin Balakrishnan. Keepin' it Real: Pushing the Desktop Metaphor with Physics, Piles and the Pen. Proceedings of CHI 2006 - the ACM Conference on Human Factors in Computing Systems. pp. 1283–1292</p>
+					</section>
+					<section>
+						<ul>
+							<li>Física del mundo real</li>
+							<li>Nuevas formas de organizar: apilar, escanear...</li>
+						</ul>
+					</section>
+					<section>
+						<h3>Zoomable User Interfaces</h3>
+						<img src="../media/zoom_clock.jpg" alt="GUI"/>
+						<a href="http://www.chronozoom.com/">Chrono zoom</a>
+						<a href="http://youtu.be/YzRdzRogXcw?t=1m8s">Ejemplo en iOS7</a>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h3>No UI</h3>
+						<iframe src="http://player.vimeo.com/video/48629451" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/48629451">The best interface is no interface</a> from <a href="http://vimeo.com/cooperdesign">Cooper</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+					</section>
+					<section>
+						<img src="../media/bmw_app.jpg"/>
+					</section>
+					<section>
+						<ol>
+							<li>Ir al coche</li>
+							<li>Sacar el teléfono</li>
+							<li>Activar el teléfono</li>
+							<li>Desbloquear el teléfono</li>
+							<li>Buscar la app entre múltiples iconos</li>
+							<li>Iniciar la app</li>
+							<li>Acceder a la pantalla principal</li>
+							<li>Encontrar la opción de desbloqueo</li>							
+							<li>Usar el slide para desbloquear</li>
+							<li>Abrir la puerta del coche</li>
+						</ol>
+					</section>
+						<section>
+						<ol>
+							<li>Ir al coche</li>
+							<li>Abrir la puerta del coche</li>
+						</ol>
+					</section>
+					<section>
+						<a href="http://youtu.be/iFL4eR1pqMQ?t=6m44s">Procesos vs. pantallas</a>
+					</section>
+				</section>
+				<section>
+					<h2>Actividad: Diseña una solución NoUI, NUI, GUI</h2>
+				</section>
+				<section>
+					<h2>Áreas de investigación</h2>
+				</section>
+				<section>
+					<section>
+						<h3>Interacción más cercanos a tu cuerpo</h3>
+						<ul>
+							<li>Tamaño reducido</li>
+							<li>Funcionalidad específica</li>
+						</ul>
+					</section>
+					<section>
+						<p>Factores que impulsarán esta idea según Philip van Allen:</p>
+						<ul>
+							<li>Impresión 3D</li>
+							<li>SoC: System on a chip</li>
+							<li>Software y Hardware Open Source</li>
+						</ul>
+					</section>
+					<section>
+						<h3>iPod Shuffle</h3>
+						<img src="../media/ipod_shuffle.jpg" alt="GUI"/>
+					</section>
+					<section>
+						<h3>Fit bit</h3>
+						<img src="../media/fitbit.jpg" alt="GUI"/>
+						<img src="../media/fitbit_stats.jpg" alt="GUI"/>
+					</section>
+					<section>
+						<iframe width="560" height="315" src="http://www.youtube.com/embed/NM1VuN5Iouc?rel=0" frameborder="0" allowfullscreen></iframe>
+					</section>
+					<section>
+						<img src="../media/nokia_tatoo.jpeg"></img>
+						<a href="http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.html&r=1&f=G&l=50&s1=%2220120062371%22.PGNR.&OS=DN/20120062371&RS=DN/20120062371?fvrewsd">Patente de Nokia</a>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h3>Interacción más cercana al entorno físisco</h3>
+					</section>
+					<section>
+						<h3>SixthSense</h3>
+						<img src="../media/sixth_sense.jpg"></img>
+					</section>
+					<section>
+						<h3>SixthSense</h3>
+						<iframe width="480" height="360" src="http://www.youtube.com/embed/ZfV4R4x2SK0?rel=0" frameborder="0" allowfullscreen></iframe>
+					</section>
+				</section>
+				
+				
+				<section>
+					<section>
+						<h3>Emociones</h3>
+					</section>
+					<section>
+						<h3>Animismo: emociones en objetos</h3>
+						<iframe src="http://player.vimeo.com/video/22524428" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/22524428">Wild State Touch Interface</a> from <a href="http://vimeo.com/user1279636">Joshua McVeigh-Schultz</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+					</section>
+					<section>
+						<h3>Philips: "emorion mirrors"</h3>
+						<img src="../media/philips_emotions.jpg" alt="GUI"/>
+						<a href="http://www.mirrorofemotions.com/">www.mirrorofemotions.com/</a>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h3>Interacción en mercados emergentes</h3>
+					</section>
+					<section>
+						<ul>
+							<li>Iniciación en el mundo digital por el teléfono móvil, en lugar del PC</li>
+							<li>Problemas y necesidades específicas</li>
+						</ul>
+					</section>
+					<section>
+						<h3>M-Pesa: enviar dinero</h3>
+						<img src="../media/mpesa.jpg" alt="GUI"/>
+					</section>
+					<section><iframe width="640" height="360" src="http://www.youtube.com/embed/yE-jFQnu5Jg?rel=0" frameborder="0" allowfullscreen></iframe></section>
+				</section>
+				<section>
+					<section>
+						<h3>Multi-dispositivo</h3>
+						<iframe width="560" height="315" src="http://www.youtube.com/embed/qn7RfQU1MJg?rel=0" frameborder="0" allowfullscreen></iframe>
+					</section>
+					<section>
+						<iframe width="420" height="315" src="http://www.youtube.com/embed/58bjJKCQMgE?rel=0" frameborder="0" allowfullscreen></iframe>
+						<a href="http://www.pranavmistry.com/projects/sparsh">Proyecto Sparsh</a>
+					</section>
+				</section>
+				<section>
+						<h3>Implicit interactions</h3>
+						<img src="../media/implicit-interactions-framework.png" alt="NUI"/>
+						<small>Ju, W, & Leifer, L. "The Design of Implicit Interactions: Making Interactive Systems Less Obnoxious." Design Issues: Special Issue on Design Research in Interaction Design, 24(3) Summer 2008.</small>
+				</section>
+				
+				<section>
+					<h2>Actividad: estado del arte de un área</h2>
+					<ul>
+						<li>Elabora un estado del arte de una de las áreas presentadas:</li>
+						<ul>
+							<li>Trabajos y autores que tratan el tema</li>
+							<li>Aspectos y aproximaciones</li>
+						</ul>
+						<li>(Opcional) Anota posibles ideas de mejora en el área</li>
+					</ul>
+				</section>
+				
+			
+			</div>
+
+		</div>
+
+		<script src="../lib/reveal/lib/js/head.min.js"></script>
+		<script src="../lib/reveal/js/reveal.min.js"></script>
+
+		<script>
+
+			// Full list of configuration options available here:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				theme: Reveal.getQueryHash().theme || 'simple', // available themes are in /css/theme
+				transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/concave/zoom/linear/none
+
+				// Optional libraries used to extend on reveal.js
+				dependencies: [
+					{ src: '../lib/reveal/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: '../lib/reveal/plugin/markdown/showdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: '../lib/reveal/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: '../lib/reveal/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: '../lib/reveal/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: '../lib/reveal/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+					// { src: '../lib/reveal/plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+				]
+			});
+
+		</script>
+
+	</body>
+</html>

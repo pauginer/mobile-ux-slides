@@ -146,3 +146,15 @@ Atribution for Android assets:
  Portions of this page are reproduced from work created and <a href="http://code.google.com/policies.html">shared by the Android Open Source Project</a>
  and used according to terms described in the <a href="http://creativecommons.org/licenses/by/2.5/">Creative Commons
  2.5 Attribution License</a>.
+
+bicycle: http://www.flickr.com/photos/sludgeulper/5594225517/
+
+macintosh_manual: http://www.flickr.com/photos/peterme/1253700105/
+zoom_clock: http://www.flickr.com/photos/rocketfuel/3445645129/
+
+eyetracking_task_influence: http://en.wikipedia.org/wiki/File:Yarbus_The_Visitor.jpg
+eyetracking_sequence: http://www.flickr.com/photos/rosenfeldmedia/2366440213
+ipod_shuffle: http://www.flickr.com/photos/bfishadow/3386995539/
+fitbit: http://www.flickr.com/photos/pmarkham/6702638251/
+fitbit_stats: http://www.flickr.com/photos/shinyobject/6747111565/
+mpesa: http://www.flickr.com/photos/smagdali/5619301520/
