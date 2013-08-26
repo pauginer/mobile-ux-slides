@@ -158,3 +158,9 @@ ipod_shuffle: http://www.flickr.com/photos/bfishadow/3386995539/
 fitbit: http://www.flickr.com/photos/pmarkham/6702638251/
 fitbit_stats: http://www.flickr.com/photos/shinyobject/6747111565/
 mpesa: http://www.flickr.com/photos/smagdali/5619301520/
+participatory_design: http://www.flickr.com/photos/neotint/3238587028/
+focus_groups: http://www.flickr.com/photos/usaghumphreys/3567858575/
+stopwatch: http://www.flickr.com/photos/wwarby/3296379139/
+ab_testing: http://www.flickr.com/photos/mil8/2164167813/
+post_its: http://www.flickr.com/photos/mundoresink/3418804248/
+entrevista: http://www.flickr.com/photos/zoethustra/520668071/
