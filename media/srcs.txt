@@ -164,3 +164,4 @@ stopwatch: http://www.flickr.com/photos/wwarby/3296379139/
 ab_testing: http://www.flickr.com/photos/mil8/2164167813/
 post_its: http://www.flickr.com/photos/mundoresink/3418804248/
 entrevista: http://www.flickr.com/photos/zoethustra/520668071/
+periodic_table: http://www.flickr.com/photos/mrspugliano/5351057718/
